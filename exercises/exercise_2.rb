@@ -12,5 +12,3 @@ puts "----------"
 
 @store1.name = 'BurnaBEEEE'
 @store1.save
-
-puts @store1.name
