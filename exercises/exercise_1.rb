@@ -17,16 +17,16 @@ burnaby.save
 
 richmond = Store.new
 richmond.name = 'Richmond'
-richmond.annual_revenue = 30000
-richmond.mens_apparel = true
+richmond.annual_revenue = 1260000
+richmond.mens_apparel = false
 richmond.womens_apparel = true
 richmond.save
 
 gastown = Store.new
 gastown.name = 'Gastown'
-gastown.annual_revenue = 30000
+gastown.annual_revenue = 190000
 gastown.mens_apparel = true
-gastown.womens_apparel = true
+gastown.womens_apparel = false
 gastown.save
 
 
